@@ -12,3 +12,10 @@ Python dosyasini projenin icine surukleyip asagidaki sekilde baska dosya icerisi
     print(araba)#verilen linkteki aracin tum ozelliklerini dondurur
     
     print(dict(arabamcom.sayfacek("https://www.arabam.com/ikinci-el/otomobil?page=2")[0]).get("fiyat")) #2. sayfanin 1. ilanindaki aracin fiyatini yazdirir
+
+
+Gerekli Moduller
+-----------
+.. code-block:: python
+
+    >>>pip install request bs4
