@@ -1,5 +1,4 @@
-# arabam.com-api
-unofficial arabam.com api
+UNOFFICIAL ARABAM.COM API
 
 Quick Start
 -----------
