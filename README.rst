@@ -17,4 +17,5 @@ Python dosyasini projenin icine surukleyip asagidaki sekilde baska dosya icerisi
 Gerekli Moduller
 -----------
 .. code-block:: bash
+
     $ pip install request bs4
